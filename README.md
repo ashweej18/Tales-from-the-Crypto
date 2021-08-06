@@ -66,9 +66,9 @@ Data from [newsapi](https://newsapi.org/) is used to pull the latest news articl
 
   ![Ethereum Score](Output/ethereum_describe.png)
 
-  ![Bitcoin Sentiment](Output/bitcoin_sentiment.png)
+  ![Bitcoin Sentiment](Output/Bitcoin_sentiment.png)
 
-  ![Ethereum Sentiment](Output/ethereum_sentiment.png)
+  ![Ethereum Sentiment](Output/Ethereum_sentiment.png)
 
 
 * Word Cloud
