@@ -61,4 +61,22 @@ Data from [newsapi](https://newsapi.org/) is used to pull the latest news articl
 ---
 ### **Output**
 
-[Crypto sentiment](crypto_sentiment.ipynb)
+* Sentiment Scores
+  ![Bitcoin Score](Output/bitcoin_describe.png)
+
+  ![Ethereum Score](Output/ethereum_describe.png)
+
+  ![Bitcoin Sentiment](Output/bitcoin_sentiment.png)
+
+  ![Ethereum Sentiment](Output/ethereum_sentiment.png)
+
+
+* Word Cloud
+  ![Bitcoin WordCloud](Output/bitcoin_wordcloud.png)
+
+  ![Ethereum WordCloud](Output/ethereum_wordcloud.png)
+
+* NER
+  ![Bitcoin NER](Output/bitcoin_ner.png)
+
+  ![Ethereum NER](Output/ethereum_ner.png)
